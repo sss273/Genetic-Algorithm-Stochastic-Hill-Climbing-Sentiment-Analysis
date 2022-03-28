@@ -1,8 +1,8 @@
 <h1>File Descriptions: </h1>
 
 <h3> Data: test files are in test folder and they are in text format. </h3>
-    -the first line: n (number of tasks)
-    -next n lines: name of task entry time processing time deadline
+    <h4>-the first line: n (number of tasks)</h4>
+    <h4>-next n lines: name of task entry time processing time deadline</h4>
 
 <h3>Genetic algorithm is in GA.ipynb, it includes genetic algorithm and a small scripts to store the number of violations and running time of GA on each test, these result is saved in r_GA.txt</h3>
 
