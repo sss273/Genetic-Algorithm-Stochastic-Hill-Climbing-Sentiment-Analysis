@@ -1,6 +1,7 @@
-Scheduling
+1. Scheduling folder contains scheduling problem code + report
 
-Sentiment Analysis 
+2. Sentiment Analysis folder contains sentiment analysis code + report
+
 
 
 
